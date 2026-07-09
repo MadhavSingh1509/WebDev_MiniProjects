@@ -1,0 +1,12 @@
+{
+  "name": "simple-notes-api",
+  "version": "1.0.0",
+  "description": "A simple REST API to create, view, and delete notes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
